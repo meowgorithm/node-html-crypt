@@ -26,7 +26,7 @@ this will still thwart most spam-bots.
 
 Adding a Jade helper is easy. Add the following to your Express app…
 
-    app.locals.crypt = require('crypt');
+    app.locals.crypt = require('html-crypt');
 
 …and you'll get a helper function in your Jade templates:
 
