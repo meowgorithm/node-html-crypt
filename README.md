@@ -9,6 +9,10 @@ Christian Weiske which was first released on September 8, 2002.
 
 [1]: http://pear.php.net/package/HTML_Crypt/
 
+## Installation
+
+    npm install html-crypt
+
 ## Usage
 
     var crypt = require('html-crypt');
