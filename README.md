@@ -24,7 +24,7 @@ this will still thwart most spam-bots.
 
 ### Example output
 
-    Per the above, the following will automatically decrypt to `<a href="mailto:karl@example.com>Karl Lagerfeld</a>`:
+Per the above, the following will automatically decrypt to `<a href="mailto:karl@example.com>Karl Lagerfeld</a>`:
 
     <script type="text/javascript">var a,s,n;function rkxstbicjzemlnvofdpgawhyqu(s){r="";for(i=0;i<s.length;i++){n=s.charCodeAt(i);if(n<128){n=n-7;if(n<32){n=127+(n-32);}}r+=String.fromCharCode(n);}return r;}a="Ch'oylmD)thps{vArhysGhtwsl5jvt)ERhys'ShnlymlskC6hE";document.write(rkxstbicjzemlnvofdpgawhyqu(a));</script>
 
