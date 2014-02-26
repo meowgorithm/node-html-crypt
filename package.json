@@ -1,0 +1,18 @@
+{
+    "name": "html-crypt",
+    "version": "0.0.2",
+    "author": {
+        "name": "Christian Rocha",
+        "email": "christian.rocha@gmail.com"
+    },
+    "main": "./index.js",
+    "description": "a self-decrypting JavaScript generator for spam defense",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/roshambo/node-html-crypt.git"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10.26"
+    }
+}
