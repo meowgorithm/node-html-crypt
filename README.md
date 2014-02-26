@@ -4,7 +4,7 @@ Self-decrypting JavaScript for general purpose spam defense.
 
 Because the internet really hasn’t changed that much in the last twelve years.™
 
-Ported from the excellent [HTML_Crypt][1] library by Mike Dransfield and
+Ported from the excellent [HTML_Crypt][1] package by Mike Dransfield and
 Christian Weiske which was first released on September 8, 2002.
 
 [1]: http://pear.php.net/package/HTML_Crypt/
@@ -18,9 +18,9 @@ Christian Weiske which was first released on September 8, 2002.
     var crypt = require('html-crypt');
     crypt('<a href="mailto:karl@example.com>Karl Lagerfeld</a>');
 
-The above outputs a script tag with a bunch of gnarly looking JavaScript that
+The above outputs a script tag with some gnarly looking JavaScript that
 that in turn self-decrypts to the given string on page load. Believe it or not,
-this will still deflect most spam-bots.
+this will still thwart most spam-bots.
 
 ## With Express 3.x
 
