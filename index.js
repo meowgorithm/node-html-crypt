@@ -2,7 +2,7 @@
 
 node-html-crypt
 
-A self-decrypting JavaScript for general purpose spam defense
+Self-decrypting JavaScript for general purpose spam defense
 
 Ported from the excellent HTML_Crypt library by Mike Dransfield and
 Christian Weiske first released on September 8, 2002.
